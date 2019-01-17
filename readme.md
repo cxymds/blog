@@ -1,4 +1,4 @@
-# Bro Qiang 博客
+# XMaGe 博客
 
 ## 版本说明
 
